@@ -1,5 +1,5 @@
 "manpage for Simple_shell. Simple shell project to ALX School.
-.TH man 1 "14 April 2022" "Simple Shell"                    "10 August 2022" "1.0"                                              "simple_shell man page"
+.TH man 1 "18th October 2022" "Simple Shell"                    "19th December 2022" "1.0"                                              "simple_shell man page"
 SH NAME
 ALX Simple Shell
 - A simple UNIX command line interpreter.
@@ -55,4 +55,4 @@ is based on the Thompson Shell program written by Ken Thompson.
 Only one error message will print upon failure. If any further bugs are found please contact the authors.
 
 .SH AUTHORS
-written by Rohisha R with contrubiton by Huckiel S.
+written by Honorine N with contrubiton by Ogechi E
